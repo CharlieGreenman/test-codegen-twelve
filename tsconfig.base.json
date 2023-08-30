@@ -32,6 +32,9 @@
       ],
       "@test-codegen-twelve/common-environment": [
         "libs/common/common-environment/src/index.ts"
+      ],
+      "@test-codegen-twelve/common-services": [
+        "libs/common/common-services/src/index.ts"
       ]
     }
   },

@@ -29,6 +29,9 @@
       ],
       "@test-codegen-twelve/data-models": [
         "libs/data-models/src/index.ts"
+      ],
+      "@test-codegen-twelve/common-environment": [
+        "libs/common/common-environment/src/index.ts"
       ]
     }
   },

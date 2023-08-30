@@ -9,6 +9,7 @@ import { GlobalFooterModule } from "@test-codegen-twelve/ui";
 import { StoreDevtoolsModule } from "@ngrx/store-devtools";
 import { StoreModule } from "@ngrx/store";
 import { StoreRouterConnectingModule, routerReducer } from "@ngrx/router-store";
+import { environment } from '../environments/environment';
 
 @NgModule({
   declarations: [AppComponent],

@@ -32,7 +32,13 @@
     "@fortawesome/angular-fontawesome": "0.13.0",
     "@apollo/client": "3.7.2",
     "apollo-angular": "^5.0.1",
-    "graphql": "16.8.0"
+    "graphql": "16.8.0",
+    "@ngrx/store": "16.0.1",
+    "@ngrx/effects": "16.0.1",
+    "@ngrx/entity": "16.0.1",
+    "@ngrx/router-store": "16.0.1",
+    "@ngrx/component-store": "16.0.1",
+    "@ngrx/store-devtools": "16.0.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "16.2.0",

@@ -9,7 +9,8 @@
     "build": "nx build",
     "test": "node 'node_modules/.bin/jest'",
     "jest": "npm run jest",
-    "e2e": "nx e2e test-codegen-twelve-e2e"
+    "e2e": "nx e2e test-codegen-twelve-e2e",
+    "test:ci": "npm run nx -- run-many --target=test --all --parallel --coverage --coverageReporters=lcov && node ./tools/coverageMerger.js"
   },
   "private": true,
   "dependencies": {

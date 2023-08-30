@@ -26,6 +26,9 @@
       ],
       "@test-codegen-twelve/home": [
         "libs/home/src/index.ts"
+      ],
+      "@test-codegen-twelve/data-models": [
+        "libs/data-models/src/index.ts"
       ]
     }
   },

@@ -27,8 +27,8 @@
       "@test-codegen-twelve/home": [
         "libs/home/src/index.ts"
       ],
-      "@test-codegen-twelve/data-access": [
-        "libs/data-access/src/index.ts"
+      "@test-codegen-twelve/data-services": [
+        "libs/data-services/src/index.ts"
       ]
     }
   },

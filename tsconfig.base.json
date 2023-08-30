@@ -27,8 +27,8 @@
       "@test-codegen-twelve/home": [
         "libs/home/src/index.ts"
       ],
-      "@test-codegen-twelve/data-services": [
-        "libs/data-services/src/index.ts"
+      "@test-codegen-twelve/data-graphql": [
+        "libs/data-graphql/src/index.ts"
       ]
     }
   },
